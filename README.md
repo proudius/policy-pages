@@ -1,1 +1,1 @@
-# policy-pages
+Privacy policy pages.
